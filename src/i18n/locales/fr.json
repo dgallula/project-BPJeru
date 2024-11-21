@@ -1,0 +1,84 @@
+{
+  "nav": {
+    "restaurants": "Restaurants",
+    "deals": "Bons Plans",
+    "blog": "Blog",
+    "contact": "Contact",
+    "login": "Connexion",
+    "register": "Inscription",
+    "admin": "Administration",
+    "logout": "Déconnexion"
+  },
+  "hero": {
+    "title": "Découvrez les Meilleurs Restaurants de Jérusalem",
+    "subtitle": "Des recommandations locales et des bons plans pour une expérience culinaire unique",
+    "search": "Rechercher un restaurant, une cuisine..."
+  },
+  "categories": {
+    "title": "Explorer par Catégorie",
+    "israeli": "Cuisine Israélienne",
+    "cafes": "Cafés",
+    "international": "International",
+    "vegetarian": "Végétarien",
+    "gourmet": "Gastronomique",
+    "badatz": "Badatz",
+    "mehadrin": "Rabbanut Méhadrin",
+    "rabbanut": "Rabbanut"
+  },
+  "restaurants": {
+    "title": "Restaurants",
+    "search": "Rechercher un restaurant...",
+    "noResults": "Aucun restaurant ne correspond à votre recherche.",
+    "location": "Localisation",
+    "rating": "Note",
+    "reviews": "avis",
+    "featured": {
+      "title": "Restaurants à la Une",
+      "machneyuda": {
+        "name": "Machneyuda",
+        "location": "Mahane Yehuda",
+        "description": "Une expérience culinaire unique au cœur du marché"
+      },
+      "mona": {
+        "name": "Mona",
+        "location": "Centre-Ville",
+        "description": "Fine dining dans un cadre historique"
+      },
+      "eucalyptus": {
+        "name": "Eucalyptus",
+        "location": "Vieille Ville",
+        "description": "Saveurs bibliques revisitées"
+      }
+    },
+    "price": {
+      "economic": "Économique",
+      "moderate": "Modéré",
+      "expensive": "Cher",
+      "luxury": "Luxe"
+    }
+  },
+  "deals": {
+    "title": "Bons Plans",
+    "validUntil": "Valable jusqu'au",
+    "at": "chez"
+  },
+  "newsletter": {
+    "title": "Ne Manquez Aucun Bon Plan",
+    "subtitle": "Inscrivez-vous à notre newsletter pour recevoir les dernières offres",
+    "placeholder": "Votre adresse email",
+    "button": "S'inscrire"
+  },
+  "contact": {
+    "title": "Contactez-nous",
+    "subtitle": "Une question ? Une suggestion ? N'hésitez pas à nous contacter !",
+    "form": {
+      "name": "Nom",
+      "email": "Email",
+      "message": "Message",
+      "send": "Envoyer"
+    }
+  },
+  "footer": {
+    "rights": "© 2024 BonsPlansJerusalem. Tous droits réservés."
+  }
+}

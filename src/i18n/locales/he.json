@@ -1,0 +1,84 @@
+{
+  "nav": {
+    "restaurants": "מסעדות",
+    "deals": "מבצעים",
+    "blog": "בלוג",
+    "contact": "צור קשר",
+    "login": "התחברות",
+    "register": "הרשמה",
+    "admin": "ניהול",
+    "logout": "התנתק"
+  },
+  "hero": {
+    "title": "גלה את המסעדות הטובות ביותר בירושלים",
+    "subtitle": "המלצות מקומיות ועסקאות מעולות לחוויה קולינרית ייחודית",
+    "search": "חפש מסעדה, מטבח..."
+  },
+  "categories": {
+    "title": "חפש לפי קטגוריה",
+    "israeli": "מטבח ישראלי",
+    "cafes": "בתי קפה",
+    "international": "בינלאומי",
+    "vegetarian": "צמחוני",
+    "gourmet": "גורמה",
+    "badatz": "בד״ץ",
+    "mehadrin": "רבנות מהדרין",
+    "rabbanut": "רבנות"
+  },
+  "restaurants": {
+    "title": "מסעדות",
+    "search": "חפש מסעדה...",
+    "noResults": "לא נמצאו מסעדות התואמות את החיפוש שלך.",
+    "location": "מיקום",
+    "rating": "דירוג",
+    "reviews": "ביקורות",
+    "featured": {
+      "title": "מסעדות מומלצות",
+      "machneyuda": {
+        "name": "מחניהודה",
+        "location": "מחנה יהודה",
+        "description": "חוויה קולינרית ייחודית בלב השוק"
+      },
+      "mona": {
+        "name": "מונה",
+        "location": "מרכז העיר",
+        "description": "מסעדת שף באווירה היסטורית"
+      },
+      "eucalyptus": {
+        "name": "אקליפטוס",
+        "location": "העיר העתיקה",
+        "description": "טעמים תנכיים בגרסה מודרנית"
+      }
+    },
+    "price": {
+      "economic": "חסכוני",
+      "moderate": "בינוני",
+      "expensive": "יקר",
+      "luxury": "יוקרה"
+    }
+  },
+  "deals": {
+    "title": "מבצעים",
+    "validUntil": "בתוקף עד",
+    "at": "ב"
+  },
+  "newsletter": {
+    "title": "אל תפספסו אף מבצע",
+    "subtitle": "הירשמו לניוזלטר שלנו לקבלת ההצעות האחרונות",
+    "placeholder": "כתובת האימייל שלך",
+    "button": "הרשמה"
+  },
+  "contact": {
+    "title": "צור קשר",
+    "subtitle": "יש לך שאלה? הצעה? אל תהסס ליצור קשר!",
+    "form": {
+      "name": "שם",
+      "email": "אימייל",
+      "message": "הודעה",
+      "send": "שלח"
+    }
+  },
+  "footer": {
+    "rights": "© 2024 BonsPlansJerusalem. כל הזכויות שמורות."
+  }
+}

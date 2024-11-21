@@ -1,0 +1,84 @@
+{
+  "nav": {
+    "restaurants": "Restaurants",
+    "deals": "Deals",
+    "blog": "Blog",
+    "contact": "Contact",
+    "login": "Login",
+    "register": "Register",
+    "admin": "Admin",
+    "logout": "Logout"
+  },
+  "hero": {
+    "title": "Discover Jerusalem's Best Restaurants",
+    "subtitle": "Local recommendations and great deals for a unique culinary experience",
+    "search": "Search for a restaurant, cuisine..."
+  },
+  "categories": {
+    "title": "Explore by Category",
+    "israeli": "Israeli Cuisine",
+    "cafes": "Cafes",
+    "international": "International",
+    "vegetarian": "Vegetarian",
+    "gourmet": "Gourmet",
+    "badatz": "Badatz",
+    "mehadrin": "Rabbanut Mehadrin",
+    "rabbanut": "Rabbanut"
+  },
+  "restaurants": {
+    "title": "Restaurants",
+    "search": "Search for a restaurant...",
+    "noResults": "No restaurants match your search.",
+    "location": "Location",
+    "rating": "Rating",
+    "reviews": "reviews",
+    "featured": {
+      "title": "Featured Restaurants",
+      "machneyuda": {
+        "name": "Machneyuda",
+        "location": "Mahane Yehuda",
+        "description": "A unique culinary experience in the heart of the market"
+      },
+      "mona": {
+        "name": "Mona",
+        "location": "City Center",
+        "description": "Fine dining in a historic setting"
+      },
+      "eucalyptus": {
+        "name": "Eucalyptus",
+        "location": "Old City",
+        "description": "Biblical flavors revisited"
+      }
+    },
+    "price": {
+      "economic": "Budget",
+      "moderate": "Moderate",
+      "expensive": "Expensive",
+      "luxury": "Luxury"
+    }
+  },
+  "deals": {
+    "title": "Deals",
+    "validUntil": "Valid until",
+    "at": "at"
+  },
+  "newsletter": {
+    "title": "Don't Miss Any Deals",
+    "subtitle": "Subscribe to our newsletter to receive the latest offers",
+    "placeholder": "Your email address",
+    "button": "Subscribe"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Have a question? A suggestion? Don't hesitate to contact us!",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "send": "Send"
+    }
+  },
+  "footer": {
+    "rights": "© 2024 BonsPlansJerusalem. All rights reserved."
+  }
+}
